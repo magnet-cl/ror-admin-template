@@ -1,0 +1,2 @@
+Magnet.cl - ROR TEMPLATE
+========================
