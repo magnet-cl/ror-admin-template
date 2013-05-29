@@ -13,3 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# zsh autocompletion for capistrano
+.cap_tasks~
